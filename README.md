@@ -1,0 +1,1 @@
+This repository contains an example of a subtle bug in HTML involving a simple typo that can cause unexpected behavior.  The bug is demonstrated in `bug.html` and the solution is provided in `bugSolution.html`. The bug highlights the importance of careful coding and thorough testing.
